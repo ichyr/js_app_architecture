@@ -1,0 +1,1 @@
+document.getElementById("main").innerHTML = plastQuiz.site_name;

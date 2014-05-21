@@ -1,0 +1,1 @@
+plastQuiz.site_name = "Greatings";
